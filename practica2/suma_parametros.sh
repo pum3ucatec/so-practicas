@@ -1,12 +1,12 @@
 #!/bin/bash
 
-# Verificar si se pasaron dos parámetros
+# Validar que se hayan pasado exactamente dos parámetros
 if [ $# -ne 2 ]; then
-    echo "Uso: $0 numero1 numero2"
-    exit 1
+  echo "Uso: $0 numero1 numero2"
+  exit 1
 fi
 
-# Asignar parámetros a variables
+# Capturar los parámetros
 numero1=$1
 numero2=$2
 
