@@ -1,0 +1,102 @@
+ 1  sudo app update
+    2  sudo snap install tree
+    3  ls
+    4  history
+    5  cd..
+    6  mkdir mnt
+    7  cd mnt
+    8  mkdir c
+    9  cd c
+   10  mkdir ucatec
+   11  cd ucatec
+   12  mkdir sistemas-operativos
+   13  cd sistemas-operativos
+   14  mkdir practicas
+   15  cd practicas
+   16  mkdir practica1
+   17  cd practica1
+   18  cd ..
+   19  code .
+   20  cd..
+   21  mkdir -p Ucatec/sistemas-operativos/bd
+   22  cd  Ucatec/sistemas-operativos/bd
+   23  ls la
+   24  touch futbol.txt
+   25  la /la
+   26  ls -la
+   27  vi futbol.txt
+   28  cat futbol.txt
+   29  cp futbol.txt volleyball.txt
+   30  cd..
+   31  cd ..
+   32  zip -r bd_051224.zip bd
+   33  install zip
+   34  sudo apt install zip
+   35  passwd
+   36  passwd carlos_marcelo
+   37  passwd
+   38  passwd carlos_marcelo
+   39  sudo passwd carlos_marcelo
+   40  su
+   41  tree
+   42  sudo snap install tree
+   43  su - root
+   44  sudo apt install zip
+   45  sudo usermod -aG sudo carlos_marcelo
+   46  su -
+   47  sudo apt install zip
+   48  sudo usermod -aG sudo carlos_marcelo
+   49  su
+   50  docker --version
+   51  -u root
+   52  su -
+   53  sudo -1
+   54  sudo -l
+   55  su -
+   56  sudo -l
+   57  cd ..
+   58  ls
+   59  -ls -la
+   60  cd carlos-marcelo
+   61  cd carlos_marcelo
+   62  cd Ucatec
+   63  cd sistemas-operativos
+   64  zip -r bd_051224.zip bd
+   65  ls -la
+   66  cp futbol.txt volleyball.txt
+   67  cd bd
+   68  cp futbol.txt volleyball.txt
+   69  ls -la
+   70  cd ,,
+   71  cd ..
+   72  cd Practicas 
+   73  mkdir Practicas
+   74  cd Practicas
+   75  git --version
+   76  git status
+   77  sudo snap install tree
+   78  sudo apt install tree
+   79  tree
+   80  u -
+   81  u-
+   82  - u
+   83  sudo apt update
+   84  tree
+   85  sudo apt install tree
+   86  tree
+   87  cd ..
+   88  ls -la
+   89  ls
+   90  ls -l
+   91  tree -L 1
+   92  cd home 
+   93  tree -L 1
+   94  history
+   95  cd carlos_marcelo 
+   96  ls -la
+   97  tree
+   98  cd Ucatec
+   99  cd sistemas-operativos
+  100  cd ..
+  101  tree
+  102  history > comandos_141124.txt
