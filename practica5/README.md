@@ -1,7 +1,7 @@
-Crear el directorio “mis_imagenes” si no existe
+#Crear el directorio “mis_imagenes” si no existe#
 mkdir -p mis_imagenes
 
-Copiar los archivos .jpg al nuevo directorio
+#Copiar los archivos .jpg al nuevo directorio#
 cp *.jpg mis_imagenes 2>/dev/null
 
 Comprobar si hay archivos .jpg para copiar
