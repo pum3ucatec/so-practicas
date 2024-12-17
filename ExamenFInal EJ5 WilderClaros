@@ -1,0 +1,7 @@
+# Ejercicio 5
+1. ls (verifica el lugar donde nos enconstramos en el equipo) ls -la (nomobre de la carpeta)
+2. cd ..(realiza que podamos ir una carpetqa anterior por si esd que entramos al archivo incorrecto) cd .. (directorio)
+3. pwd (muestra el directorio en el que nos encontramos actual)
+4. mkdir (crea nuevo directorio) (mi_archivo)
+5. rmdir (elimina directorio) rmdir(nombre_directorio)
+6. cp (copia archivo o directorios) cp (origen)(destino)
